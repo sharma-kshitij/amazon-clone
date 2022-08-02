@@ -1,6 +1,7 @@
 ## This is an Amazon Clone web application made using React.js
 
 Make sure you have Node.js and npm installed.
+
 Clone the repo, then once inside the project folder, run:
 
 ### `npm i`
