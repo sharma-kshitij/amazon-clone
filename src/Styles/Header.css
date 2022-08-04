@@ -50,6 +50,10 @@
     color: white;
 }
 
+.header__basketIcon{
+    color: white;
+}
+
 .header__basketCount{
     margin-left: 10px;
     margin-right: 10px;
